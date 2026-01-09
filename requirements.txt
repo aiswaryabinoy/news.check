@@ -1,0 +1,7 @@
+streamlit
+requests
+torch
+transformers
+spacy
+pytextrank
+sentencepiece
